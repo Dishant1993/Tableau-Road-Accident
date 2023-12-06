@@ -46,6 +46,4 @@ Facilitated evidence-based decision-making for implementing preventive measures.
 Contributed to a reduction in accident rates in targeted areas through focused interventions.
 Technologies Used:
 Tableau for data visualization and dashboard development.
-Python for data cleaning, preprocessing, and predictive modeling.
-SQL for data querying and integration.
 This Tableau road accident analysis project served as a valuable tool for informed decision-making and proactive road safety measures, ultimately contributing to the well-being of the community and the reduction of accidents.
